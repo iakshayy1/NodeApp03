@@ -1,0 +1,74 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.glyphicon glyphicon-home{
+    font-size :50px;
+}
+.css{
+    font-size: 30px;
+}
+
+img{
+    border-radius: 50%;
+    float: right;
+}
+nav{
+    background-color: dimgray;
+}
+footer{
+    font-size: 12px;
+}
+#icons{
+    font-size: 15px;
+    font-weight: bold;
+    }
+.facebook{
+    font-size: 30px;
+}
+.twitter{
+    font-size: 30px;
+}
+.bitbucket{
+    font-size: 30px;
+}
+.github{
+    font-size: 30px;
+}
+.linkedin{
+    font-size: 30px;
+}
+.footer {
+    background: #061D25;
+    padding: 10px 0;
+}
+
+.footer a {
+    color : white;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.footer a:first-child {
+    border-left: 1px solid #70726F;
+}
+
+.footer a:hover {
+    color: white;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+
+
+
+
+
+
+
+
+
